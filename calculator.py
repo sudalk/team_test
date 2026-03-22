@@ -1,8 +1,6 @@
 def add(a, b):
-    # TODO: Implement addition
-    pass
+    return a + b
 
 
 def multiply(a, b):
-    # TODO: Implement multiplication
-    pass
+    return a * b
